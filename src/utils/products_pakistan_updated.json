@@ -1,0 +1,1084 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "seller_id": 8,
+            "seller_name": "Sana Malik",
+            "seller_city": "Gujranwala",
+            "category": "Seed",
+            "name": "Hybrid Maize Seeds",
+            "description": "High-yield hybrid maize seeds, resistant to drought and pests.",
+            "price": 50,
+            "image": "https://example.com/images/maize_seeds.jpg",
+            "stock": 56,
+            "reviews": [
+                {
+                    "user": "Ahmed Raza",
+                    "rating": 5,
+                    "comment": "Great germination rate, very satisfied!"
+                },
+                {
+                    "user": "Adeel Shah",
+                    "rating": 4,
+                    "comment": "Good quality seeds, but packaging was slightly damaged."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller8@pakistan.com",
+            "seller_store": "Store 8"
+        },
+        {
+            "id": 2,
+            "seller_id": 9,
+            "seller_name": "Bilal Hussain",
+            "seller_city": "Islamabad",
+            "category": "Seed",
+            "name": "Hybrid Maize Seeds",
+            "description": "High-yield hybrid maize seeds, resistant to drought and pests.",
+            "price": 50,
+            "image": "https://example.com/images/maize_seeds.jpg",
+            "stock": 44,
+            "reviews": [
+                {
+                    "user": "Ahmed Raza",
+                    "rating": 5,
+                    "comment": "Great germination rate, very satisfied!"
+                },
+                {
+                    "user": "Adeel Shah",
+                    "rating": 4,
+                    "comment": "Good quality seeds, but packaging was slightly damaged."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller9@pakistan.com",
+            "seller_store": "Store 9"
+        },
+        {
+            "id": 3,
+            "seller_id": 6,
+            "seller_name": "Ali Khan",
+            "seller_city": "Sialkot",
+            "category": "Crop",
+            "name": "Wheat",
+            "description": "High-yield wheat grains from Sindh, perfect for making roti and chapati.",
+            "price": 100,
+            "image": "https://example.com/images/wheat.jpg",
+            "stock": 45,
+            "reviews": [
+                {
+                    "user": "Zain Malik",
+                    "rating": 5,
+                    "comment": "Very fresh and clean grains."
+                },
+                {
+                    "user": "Sadia Ahmed",
+                    "rating": 4,
+                    "comment": "Nice quality but slightly expensive."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller6@pakistan.com",
+            "seller_store": "Store 6"
+        },
+        {
+            "id": 4,
+            "seller_id": 6,
+            "seller_name": "Ali Khan",
+            "seller_city": "Sialkot",
+            "category": "Seed",
+            "name": "Hybrid Maize Seeds",
+            "description": "High-yield hybrid maize seeds, resistant to drought and pests.",
+            "price": 50,
+            "image": "https://example.com/images/maize_seeds.jpg",
+            "stock": 53,
+            "reviews": [
+                {
+                    "user": "Ahmed Raza",
+                    "rating": 5,
+                    "comment": "Great germination rate, very satisfied!"
+                },
+                {
+                    "user": "Adeel Shah",
+                    "rating": 4,
+                    "comment": "Good quality seeds, but packaging was slightly damaged."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller6@pakistan.com",
+            "seller_store": "Store 6"
+        },
+        {
+            "id": 5,
+            "seller_id": 8,
+            "seller_name": "Sana Malik",
+            "seller_city": "Gujranwala",
+            "category": "Seed",
+            "name": "Hybrid Maize Seeds",
+            "description": "High-yield hybrid maize seeds, resistant to drought and pests.",
+            "price": 50,
+            "image": "https://example.com/images/maize_seeds.jpg",
+            "stock": 42,
+            "reviews": [
+                {
+                    "user": "Ahmed Raza",
+                    "rating": 5,
+                    "comment": "Great germination rate, very satisfied!"
+                },
+                {
+                    "user": "Adeel Shah",
+                    "rating": 4,
+                    "comment": "Good quality seeds, but packaging was slightly damaged."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller8@pakistan.com",
+            "seller_store": "Store 8"
+        },
+        {
+            "id": 6,
+            "seller_id": 6,
+            "seller_name": "Ali Khan",
+            "seller_city": "Sialkot",
+            "category": "Irrigation",
+            "name": "Drip Irrigation System",
+            "description": "Water-efficient drip irrigation kit, reduces water wastage and improves crop health.",
+            "price": 60000,
+            "image": "https://example.com/images/drip_irrigation.jpg",
+            "stock": 95,
+            "reviews": [
+                {
+                    "user": "Hassan Iqbal",
+                    "rating": 5,
+                    "comment": "Helped save a lot of water and improved yield!"
+                },
+                {
+                    "user": "Umer Shah",
+                    "rating": 4,
+                    "comment": "Great system but requires proper installation."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller6@pakistan.com",
+            "seller_store": "Store 6"
+        },
+        {
+            "id": 7,
+            "seller_id": 8,
+            "seller_name": "Sana Malik",
+            "seller_city": "Gujranwala",
+            "category": "Fertilizer",
+            "name": "DAP Fertilizer",
+            "description": "Best phosphorus fertilizer for root growth and improving soil health.",
+            "price": 4000,
+            "image": "https://example.com/images/dap_fertilizer.jpg",
+            "stock": 34,
+            "reviews": [
+                {
+                    "user": "Ayesha Siddiqui",
+                    "rating": 5,
+                    "comment": "My crops showed significant improvement after using this."
+                },
+                {
+                    "user": "Mohammad Faisal",
+                    "rating": 4,
+                    "comment": "Good product but slightly expensive."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller8@pakistan.com",
+            "seller_store": "Store 8"
+        },
+        {
+            "id": 8,
+            "seller_id": 9,
+            "seller_name": "Bilal Hussain",
+            "seller_city": "Islamabad",
+            "category": "Irrigation",
+            "name": "Drip Irrigation System",
+            "description": "Water-efficient drip irrigation kit, reduces water wastage and improves crop health.",
+            "price": 60000,
+            "image": "https://example.com/images/drip_irrigation.jpg",
+            "stock": 25,
+            "reviews": [
+                {
+                    "user": "Hassan Iqbal",
+                    "rating": 5,
+                    "comment": "Helped save a lot of water and improved yield!"
+                },
+                {
+                    "user": "Umer Shah",
+                    "rating": 4,
+                    "comment": "Great system but requires proper installation."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller9@pakistan.com",
+            "seller_store": "Store 9"
+        },
+        {
+            "id": 9,
+            "seller_id": 8,
+            "seller_name": "Sana Malik",
+            "seller_city": "Gujranwala",
+            "category": "Fertilizer",
+            "name": "DAP Fertilizer",
+            "description": "Best phosphorus fertilizer for root growth and improving soil health.",
+            "price": 4000,
+            "image": "https://example.com/images/dap_fertilizer.jpg",
+            "stock": 31,
+            "reviews": [
+                {
+                    "user": "Ayesha Siddiqui",
+                    "rating": 5,
+                    "comment": "My crops showed significant improvement after using this."
+                },
+                {
+                    "user": "Mohammad Faisal",
+                    "rating": 4,
+                    "comment": "Good product but slightly expensive."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller8@pakistan.com",
+            "seller_store": "Store 8"
+        },
+        {
+            "id": 10,
+            "seller_id": 6,
+            "seller_name": "Ali Khan",
+            "seller_city": "Sialkot",
+            "category": "Pesticide",
+            "name": "Confidor",
+            "description": "Highly effective pesticide for fruit and vegetable crops, controls a variety of pests.",
+            "price": 200,
+            "image": "https://example.com/images/confidor.jpg",
+            "stock": 38,
+            "reviews": [
+                {
+                    "user": "Bilal Hussain",
+                    "rating": 4,
+                    "comment": "Worked well for my apple orchard."
+                },
+                {
+                    "user": "Sana Malik",
+                    "rating": 5,
+                    "comment": "Very powerful pesticide, highly recommend!"
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller6@pakistan.com",
+            "seller_store": "Store 6"
+        },
+        {
+            "id": 11,
+            "seller_id": 6,
+            "seller_name": "Ali Khan",
+            "seller_city": "Sialkot",
+            "category": "Seed",
+            "name": "Hybrid Maize Seeds",
+            "description": "High-yield hybrid maize seeds, resistant to drought and pests.",
+            "price": 50,
+            "image": "https://example.com/images/maize_seeds.jpg",
+            "stock": 12,
+            "reviews": [
+                {
+                    "user": "Ahmed Raza",
+                    "rating": 5,
+                    "comment": "Great germination rate, very satisfied!"
+                },
+                {
+                    "user": "Adeel Shah",
+                    "rating": 4,
+                    "comment": "Good quality seeds, but packaging was slightly damaged."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller6@pakistan.com",
+            "seller_store": "Store 6"
+        },
+        {
+            "id": 12,
+            "seller_id": 8,
+            "seller_name": "Sana Malik",
+            "seller_city": "Gujranwala",
+            "category": "Fertilizer",
+            "name": "DAP Fertilizer",
+            "description": "Best phosphorus fertilizer for root growth and improving soil health.",
+            "price": 4000,
+            "image": "https://example.com/images/dap_fertilizer.jpg",
+            "stock": 73,
+            "reviews": [
+                {
+                    "user": "Ayesha Siddiqui",
+                    "rating": 5,
+                    "comment": "My crops showed significant improvement after using this."
+                },
+                {
+                    "user": "Mohammad Faisal",
+                    "rating": 4,
+                    "comment": "Good product but slightly expensive."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller8@pakistan.com",
+            "seller_store": "Store 8"
+        },
+        {
+            "id": 13,
+            "seller_id": 10,
+            "seller_name": "Ayesha Siddiqui",
+            "seller_city": "Multan",
+            "category": "Tools",
+            "name": "Tractor Plough",
+            "description": "High-performance plough for soil preparation, ideal for large farms.",
+            "price": 150000,
+            "image": "https://example.com/images/tractor_plough.jpg",
+            "stock": 46,
+            "reviews": [
+                {
+                    "user": "Zubair Khan",
+                    "rating": 5,
+                    "comment": "Very durable and efficient, worth the investment!"
+                },
+                {
+                    "user": "Sohail Ahmed",
+                    "rating": 4,
+                    "comment": "Works great, but delivery took longer than expected."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller10@pakistan.com",
+            "seller_store": "Store 10"
+        },
+        {
+            "id": 14,
+            "seller_id": 10,
+            "seller_name": "Ayesha Siddiqui",
+            "seller_city": "Multan",
+            "category": "Pesticide",
+            "name": "Confidor",
+            "description": "Highly effective pesticide for fruit and vegetable crops, controls a variety of pests.",
+            "price": 200,
+            "image": "https://example.com/images/confidor.jpg",
+            "stock": 32,
+            "reviews": [
+                {
+                    "user": "Bilal Hussain",
+                    "rating": 4,
+                    "comment": "Worked well for my apple orchard."
+                },
+                {
+                    "user": "Sana Malik",
+                    "rating": 5,
+                    "comment": "Very powerful pesticide, highly recommend!"
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller10@pakistan.com",
+            "seller_store": "Store 10"
+        },
+        {
+            "id": 15,
+            "seller_id": 6,
+            "seller_name": "Ali Khan",
+            "seller_city": "Sialkot",
+            "category": "Irrigation",
+            "name": "Drip Irrigation System",
+            "description": "Water-efficient drip irrigation kit, reduces water wastage and improves crop health.",
+            "price": 60000,
+            "image": "https://example.com/images/drip_irrigation.jpg",
+            "stock": 21,
+            "reviews": [
+                {
+                    "user": "Hassan Iqbal",
+                    "rating": 5,
+                    "comment": "Helped save a lot of water and improved yield!"
+                },
+                {
+                    "user": "Umer Shah",
+                    "rating": 4,
+                    "comment": "Great system but requires proper installation."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller6@pakistan.com",
+            "seller_store": "Store 6"
+        },
+        {
+            "id": 16,
+            "seller_id": 7,
+            "seller_name": "Ahmed Raza",
+            "seller_city": "Islamabad",
+            "category": "Irrigation",
+            "name": "Drip Irrigation System",
+            "description": "Water-efficient drip irrigation kit, reduces water wastage and improves crop health.",
+            "price": 60000,
+            "image": "https://example.com/images/drip_irrigation.jpg",
+            "stock": 41,
+            "reviews": [
+                {
+                    "user": "Hassan Iqbal",
+                    "rating": 5,
+                    "comment": "Helped save a lot of water and improved yield!"
+                },
+                {
+                    "user": "Umer Shah",
+                    "rating": 4,
+                    "comment": "Great system but requires proper installation."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller7@pakistan.com",
+            "seller_store": "Store 7"
+        },
+        {
+            "id": 17,
+            "seller_id": 7,
+            "seller_name": "Ahmed Raza",
+            "seller_city": "Islamabad",
+            "category": "Crop",
+            "name": "Basmati Rice",
+            "description": "Premium quality Basmati rice from Punjab, famous for its long grain and rich aroma.",
+            "price": 120,
+            "image": "https://example.com/images/basmati_rice.jpg",
+            "stock": 44,
+            "reviews": [
+                {
+                    "user": "Ali Khan",
+                    "rating": 5,
+                    "comment": "Best quality rice, very aromatic!"
+                },
+                {
+                    "user": "Fatima Raza",
+                    "rating": 4,
+                    "comment": "Good taste but packaging could be better."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller7@pakistan.com",
+            "seller_store": "Store 7"
+        },
+        {
+            "id": 18,
+            "seller_id": 10,
+            "seller_name": "Ayesha Siddiqui",
+            "seller_city": "Multan",
+            "category": "Pesticide",
+            "name": "Confidor",
+            "description": "Highly effective pesticide for fruit and vegetable crops, controls a variety of pests.",
+            "price": 200,
+            "image": "https://example.com/images/confidor.jpg",
+            "stock": 63,
+            "reviews": [
+                {
+                    "user": "Bilal Hussain",
+                    "rating": 4,
+                    "comment": "Worked well for my apple orchard."
+                },
+                {
+                    "user": "Sana Malik",
+                    "rating": 5,
+                    "comment": "Very powerful pesticide, highly recommend!"
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller10@pakistan.com",
+            "seller_store": "Store 10"
+        },
+        {
+            "id": 19,
+            "seller_id": 8,
+            "seller_name": "Sana Malik",
+            "seller_city": "Gujranwala",
+            "category": "Pesticide",
+            "name": "Confidor",
+            "description": "Highly effective pesticide for fruit and vegetable crops, controls a variety of pests.",
+            "price": 200,
+            "image": "https://example.com/images/confidor.jpg",
+            "stock": 78,
+            "reviews": [
+                {
+                    "user": "Bilal Hussain",
+                    "rating": 4,
+                    "comment": "Worked well for my apple orchard."
+                },
+                {
+                    "user": "Sana Malik",
+                    "rating": 5,
+                    "comment": "Very powerful pesticide, highly recommend!"
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller8@pakistan.com",
+            "seller_store": "Store 8"
+        },
+        {
+            "id": 20,
+            "seller_id": 8,
+            "seller_name": "Sana Malik",
+            "seller_city": "Gujranwala",
+            "category": "Irrigation",
+            "name": "Drip Irrigation System",
+            "description": "Water-efficient drip irrigation kit, reduces water wastage and improves crop health.",
+            "price": 60000,
+            "image": "https://example.com/images/drip_irrigation.jpg",
+            "stock": 70,
+            "reviews": [
+                {
+                    "user": "Hassan Iqbal",
+                    "rating": 5,
+                    "comment": "Helped save a lot of water and improved yield!"
+                },
+                {
+                    "user": "Umer Shah",
+                    "rating": 4,
+                    "comment": "Great system but requires proper installation."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller8@pakistan.com",
+            "seller_store": "Store 8"
+        },
+        {
+            "id": 21,
+            "seller_id": 10,
+            "seller_name": "Ayesha Siddiqui",
+            "seller_city": "Multan",
+            "category": "Seed",
+            "name": "Hybrid Maize Seeds",
+            "description": "High-yield hybrid maize seeds, resistant to drought and pests.",
+            "price": 50,
+            "image": "https://example.com/images/maize_seeds.jpg",
+            "stock": 35,
+            "reviews": [
+                {
+                    "user": "Ahmed Raza",
+                    "rating": 5,
+                    "comment": "Great germination rate, very satisfied!"
+                },
+                {
+                    "user": "Adeel Shah",
+                    "rating": 4,
+                    "comment": "Good quality seeds, but packaging was slightly damaged."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller10@pakistan.com",
+            "seller_store": "Store 10"
+        },
+        {
+            "id": 22,
+            "seller_id": 9,
+            "seller_name": "Bilal Hussain",
+            "seller_city": "Islamabad",
+            "category": "Pesticide",
+            "name": "Confidor",
+            "description": "Highly effective pesticide for fruit and vegetable crops, controls a variety of pests.",
+            "price": 200,
+            "image": "https://example.com/images/confidor.jpg",
+            "stock": 16,
+            "reviews": [
+                {
+                    "user": "Bilal Hussain",
+                    "rating": 4,
+                    "comment": "Worked well for my apple orchard."
+                },
+                {
+                    "user": "Sana Malik",
+                    "rating": 5,
+                    "comment": "Very powerful pesticide, highly recommend!"
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller9@pakistan.com",
+            "seller_store": "Store 9"
+        },
+        {
+            "id": 23,
+            "seller_id": 7,
+            "seller_name": "Ahmed Raza",
+            "seller_city": "Islamabad",
+            "category": "Tools",
+            "name": "Tractor Plough",
+            "description": "High-performance plough for soil preparation, ideal for large farms.",
+            "price": 150000,
+            "image": "https://example.com/images/tractor_plough.jpg",
+            "stock": 53,
+            "reviews": [
+                {
+                    "user": "Zubair Khan",
+                    "rating": 5,
+                    "comment": "Very durable and efficient, worth the investment!"
+                },
+                {
+                    "user": "Sohail Ahmed",
+                    "rating": 4,
+                    "comment": "Works great, but delivery took longer than expected."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller7@pakistan.com",
+            "seller_store": "Store 7"
+        },
+        {
+            "id": 24,
+            "seller_id": 6,
+            "seller_name": "Ali Khan",
+            "seller_city": "Sialkot",
+            "category": "Crop",
+            "name": "Wheat",
+            "description": "High-yield wheat grains from Sindh, perfect for making roti and chapati.",
+            "price": 100,
+            "image": "https://example.com/images/wheat.jpg",
+            "stock": 83,
+            "reviews": [
+                {
+                    "user": "Zain Malik",
+                    "rating": 5,
+                    "comment": "Very fresh and clean grains."
+                },
+                {
+                    "user": "Sadia Ahmed",
+                    "rating": 4,
+                    "comment": "Nice quality but slightly expensive."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller6@pakistan.com",
+            "seller_store": "Store 6"
+        },
+        {
+            "id": 25,
+            "seller_id": 6,
+            "seller_name": "Ali Khan",
+            "seller_city": "Sialkot",
+            "category": "Seed",
+            "name": "Hybrid Maize Seeds",
+            "description": "High-yield hybrid maize seeds, resistant to drought and pests.",
+            "price": 50,
+            "image": "https://example.com/images/maize_seeds.jpg",
+            "stock": 64,
+            "reviews": [
+                {
+                    "user": "Ahmed Raza",
+                    "rating": 5,
+                    "comment": "Great germination rate, very satisfied!"
+                },
+                {
+                    "user": "Adeel Shah",
+                    "rating": 4,
+                    "comment": "Good quality seeds, but packaging was slightly damaged."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller6@pakistan.com",
+            "seller_store": "Store 6"
+        },
+        {
+            "id": 26,
+            "seller_id": 9,
+            "seller_name": "Bilal Hussain",
+            "seller_city": "Islamabad",
+            "category": "Tools",
+            "name": "Tractor Plough",
+            "description": "High-performance plough for soil preparation, ideal for large farms.",
+            "price": 150000,
+            "image": "https://example.com/images/tractor_plough.jpg",
+            "stock": 67,
+            "reviews": [
+                {
+                    "user": "Zubair Khan",
+                    "rating": 5,
+                    "comment": "Very durable and efficient, worth the investment!"
+                },
+                {
+                    "user": "Sohail Ahmed",
+                    "rating": 4,
+                    "comment": "Works great, but delivery took longer than expected."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller9@pakistan.com",
+            "seller_store": "Store 9"
+        },
+        {
+            "id": 27,
+            "seller_id": 9,
+            "seller_name": "Bilal Hussain",
+            "seller_city": "Islamabad",
+            "category": "Crop",
+            "name": "Wheat",
+            "description": "High-yield wheat grains from Sindh, perfect for making roti and chapati.",
+            "price": 100,
+            "image": "https://example.com/images/wheat.jpg",
+            "stock": 61,
+            "reviews": [
+                {
+                    "user": "Zain Malik",
+                    "rating": 5,
+                    "comment": "Very fresh and clean grains."
+                },
+                {
+                    "user": "Sadia Ahmed",
+                    "rating": 4,
+                    "comment": "Nice quality but slightly expensive."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller9@pakistan.com",
+            "seller_store": "Store 9"
+        },
+        {
+            "id": 28,
+            "seller_id": 7,
+            "seller_name": "Ahmed Raza",
+            "seller_city": "Islamabad",
+            "category": "Seed",
+            "name": "Hybrid Maize Seeds",
+            "description": "High-yield hybrid maize seeds, resistant to drought and pests.",
+            "price": 50,
+            "image": "https://example.com/images/maize_seeds.jpg",
+            "stock": 95,
+            "reviews": [
+                {
+                    "user": "Ahmed Raza",
+                    "rating": 5,
+                    "comment": "Great germination rate, very satisfied!"
+                },
+                {
+                    "user": "Adeel Shah",
+                    "rating": 4,
+                    "comment": "Good quality seeds, but packaging was slightly damaged."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller7@pakistan.com",
+            "seller_store": "Store 7"
+        },
+        {
+            "id": 29,
+            "seller_id": 10,
+            "seller_name": "Ayesha Siddiqui",
+            "seller_city": "Multan",
+            "category": "Seed",
+            "name": "Hybrid Maize Seeds",
+            "description": "High-yield hybrid maize seeds, resistant to drought and pests.",
+            "price": 50,
+            "image": "https://example.com/images/maize_seeds.jpg",
+            "stock": 96,
+            "reviews": [
+                {
+                    "user": "Ahmed Raza",
+                    "rating": 5,
+                    "comment": "Great germination rate, very satisfied!"
+                },
+                {
+                    "user": "Adeel Shah",
+                    "rating": 4,
+                    "comment": "Good quality seeds, but packaging was slightly damaged."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller10@pakistan.com",
+            "seller_store": "Store 10"
+        },
+        {
+            "id": 30,
+            "seller_id": 8,
+            "seller_name": "Sana Malik",
+            "seller_city": "Gujranwala",
+            "category": "Seed",
+            "name": "Hybrid Maize Seeds",
+            "description": "High-yield hybrid maize seeds, resistant to drought and pests.",
+            "price": 50,
+            "image": "https://example.com/images/maize_seeds.jpg",
+            "stock": 14,
+            "reviews": [
+                {
+                    "user": "Ahmed Raza",
+                    "rating": 5,
+                    "comment": "Great germination rate, very satisfied!"
+                },
+                {
+                    "user": "Adeel Shah",
+                    "rating": 4,
+                    "comment": "Good quality seeds, but packaging was slightly damaged."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller8@pakistan.com",
+            "seller_store": "Store 8"
+        },
+        {
+            "id": 31,
+            "seller_id": 9,
+            "seller_name": "Bilal Hussain",
+            "seller_city": "Islamabad",
+            "category": "Pesticide",
+            "name": "Confidor",
+            "description": "Highly effective pesticide for fruit and vegetable crops, controls a variety of pests.",
+            "price": 200,
+            "image": "https://example.com/images/confidor.jpg",
+            "stock": 67,
+            "reviews": [
+                {
+                    "user": "Bilal Hussain",
+                    "rating": 4,
+                    "comment": "Worked well for my apple orchard."
+                },
+                {
+                    "user": "Sana Malik",
+                    "rating": 5,
+                    "comment": "Very powerful pesticide, highly recommend!"
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller9@pakistan.com",
+            "seller_store": "Store 9"
+        },
+        {
+            "id": 32,
+            "seller_id": 10,
+            "seller_name": "Ayesha Siddiqui",
+            "seller_city": "Multan",
+            "category": "Tools",
+            "name": "Tractor Plough",
+            "description": "High-performance plough for soil preparation, ideal for large farms.",
+            "price": 150000,
+            "image": "https://example.com/images/tractor_plough.jpg",
+            "stock": 41,
+            "reviews": [
+                {
+                    "user": "Zubair Khan",
+                    "rating": 5,
+                    "comment": "Very durable and efficient, worth the investment!"
+                },
+                {
+                    "user": "Sohail Ahmed",
+                    "rating": 4,
+                    "comment": "Works great, but delivery took longer than expected."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller10@pakistan.com",
+            "seller_store": "Store 10"
+        },
+        {
+            "id": 33,
+            "seller_id": 10,
+            "seller_name": "Ayesha Siddiqui",
+            "seller_city": "Multan",
+            "category": "Tools",
+            "name": "Tractor Plough",
+            "description": "High-performance plough for soil preparation, ideal for large farms.",
+            "price": 150000,
+            "image": "https://example.com/images/tractor_plough.jpg",
+            "stock": 48,
+            "reviews": [
+                {
+                    "user": "Zubair Khan",
+                    "rating": 5,
+                    "comment": "Very durable and efficient, worth the investment!"
+                },
+                {
+                    "user": "Sohail Ahmed",
+                    "rating": 4,
+                    "comment": "Works great, but delivery took longer than expected."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller10@pakistan.com",
+            "seller_store": "Store 10"
+        },
+        {
+            "id": 34,
+            "seller_id": 7,
+            "seller_name": "Ahmed Raza",
+            "seller_city": "Islamabad",
+            "category": "Tools",
+            "name": "Tractor Plough",
+            "description": "High-performance plough for soil preparation, ideal for large farms.",
+            "price": 150000,
+            "image": "https://example.com/images/tractor_plough.jpg",
+            "stock": 84,
+            "reviews": [
+                {
+                    "user": "Zubair Khan",
+                    "rating": 5,
+                    "comment": "Very durable and efficient, worth the investment!"
+                },
+                {
+                    "user": "Sohail Ahmed",
+                    "rating": 4,
+                    "comment": "Works great, but delivery took longer than expected."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller7@pakistan.com",
+            "seller_store": "Store 7"
+        },
+        {
+            "id": 35,
+            "seller_id": 8,
+            "seller_name": "Sana Malik",
+            "seller_city": "Gujranwala",
+            "category": "Irrigation",
+            "name": "Drip Irrigation System",
+            "description": "Water-efficient drip irrigation kit, reduces water wastage and improves crop health.",
+            "price": 60000,
+            "image": "https://example.com/images/drip_irrigation.jpg",
+            "stock": 43,
+            "reviews": [
+                {
+                    "user": "Hassan Iqbal",
+                    "rating": 5,
+                    "comment": "Helped save a lot of water and improved yield!"
+                },
+                {
+                    "user": "Umer Shah",
+                    "rating": 4,
+                    "comment": "Great system but requires proper installation."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller8@pakistan.com",
+            "seller_store": "Store 8"
+        },
+        {
+            "id": 36,
+            "seller_id": 10,
+            "seller_name": "Ayesha Siddiqui",
+            "seller_city": "Multan",
+            "category": "Pesticide",
+            "name": "Confidor",
+            "description": "Highly effective pesticide for fruit and vegetable crops, controls a variety of pests.",
+            "price": 200,
+            "image": "https://example.com/images/confidor.jpg",
+            "stock": 83,
+            "reviews": [
+                {
+                    "user": "Bilal Hussain",
+                    "rating": 4,
+                    "comment": "Worked well for my apple orchard."
+                },
+                {
+                    "user": "Sana Malik",
+                    "rating": 5,
+                    "comment": "Very powerful pesticide, highly recommend!"
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller10@pakistan.com",
+            "seller_store": "Store 10"
+        },
+        {
+            "id": 37,
+            "seller_id": 6,
+            "seller_name": "Ali Khan",
+            "seller_city": "Sialkot",
+            "category": "Crop",
+            "name": "Wheat",
+            "description": "High-yield wheat grains from Sindh, perfect for making roti and chapati.",
+            "price": 100,
+            "image": "https://example.com/images/wheat.jpg",
+            "stock": 75,
+            "reviews": [
+                {
+                    "user": "Zain Malik",
+                    "rating": 5,
+                    "comment": "Very fresh and clean grains."
+                },
+                {
+                    "user": "Sadia Ahmed",
+                    "rating": 4,
+                    "comment": "Nice quality but slightly expensive."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller6@pakistan.com",
+            "seller_store": "Store 6"
+        },
+        {
+            "id": 38,
+            "seller_id": 7,
+            "seller_name": "Ahmed Raza",
+            "seller_city": "Islamabad",
+            "category": "Seed",
+            "name": "Hybrid Maize Seeds",
+            "description": "High-yield hybrid maize seeds, resistant to drought and pests.",
+            "price": 50,
+            "image": "https://example.com/images/maize_seeds.jpg",
+            "stock": 75,
+            "reviews": [
+                {
+                    "user": "Ahmed Raza",
+                    "rating": 5,
+                    "comment": "Great germination rate, very satisfied!"
+                },
+                {
+                    "user": "Adeel Shah",
+                    "rating": 4,
+                    "comment": "Good quality seeds, but packaging was slightly damaged."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller7@pakistan.com",
+            "seller_store": "Store 7"
+        },
+        {
+            "id": 39,
+            "seller_id": 7,
+            "seller_name": "Ahmed Raza",
+            "seller_city": "Islamabad",
+            "category": "Crop",
+            "name": "Basmati Rice",
+            "description": "Premium quality Basmati rice from Punjab, famous for its long grain and rich aroma.",
+            "price": 120,
+            "image": "https://example.com/images/basmati_rice.jpg",
+            "stock": 83,
+            "reviews": [
+                {
+                    "user": "Ali Khan",
+                    "rating": 5,
+                    "comment": "Best quality rice, very aromatic!"
+                },
+                {
+                    "user": "Fatima Raza",
+                    "rating": 4,
+                    "comment": "Good taste but packaging could be better."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller7@pakistan.com",
+            "seller_store": "Store 7"
+        },
+        {
+            "id": 40,
+            "seller_id": 10,
+            "seller_name": "Ayesha Siddiqui",
+            "seller_city": "Multan",
+            "category": "Fertilizer",
+            "name": "DAP Fertilizer",
+            "description": "Best phosphorus fertilizer for root growth and improving soil health.",
+            "price": 4000,
+            "image": "https://example.com/images/dap_fertilizer.jpg",
+            "stock": 44,
+            "reviews": [
+                {
+                    "user": "Ayesha Siddiqui",
+                    "rating": 5,
+                    "comment": "My crops showed significant improvement after using this."
+                },
+                {
+                    "user": "Mohammad Faisal",
+                    "rating": 4,
+                    "comment": "Good product but slightly expensive."
+                }
+            ],
+            "average_rating": 4.5,
+            "seller_email": "seller10@pakistan.com",
+            "seller_store": "Store 10"
+        }
+    ]
+}

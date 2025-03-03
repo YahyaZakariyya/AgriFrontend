@@ -1,0 +1,577 @@
+{
+    "admin": {
+        "id": 1,
+        "name": "Super Admin - Pakistan",
+        "email": "admin@pakistan.com",
+        "phone": "+92-300-1234567",
+        "city": "Islamabad",
+        "role": "admin",
+        "isSeller": false,
+        "isAdmin": true,
+        "profile_picture": "https://example.com/images/admin_placeholder.jpg"
+    },
+    "sellers": [
+        {
+            "id": 6,
+            "name": "Ali Khan",
+            "email": "seller6@pakistan.com",
+            "phone": "+92-313-4990546",
+            "city": "Sialkot",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 6",
+            "verified": true,
+            "products": [
+                "Hybrid Maize Seeds",
+                "Hybrid Maize Seeds"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Ahmed Raza",
+            "email": "seller7@pakistan.com",
+            "phone": "+92-349-7689122",
+            "city": "Islamabad",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 7",
+            "verified": false,
+            "products": [
+                "Hybrid Maize Seeds",
+                "Confidor"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Sana Malik",
+            "email": "seller8@pakistan.com",
+            "phone": "+92-334-7551472",
+            "city": "Gujranwala",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 8",
+            "verified": false,
+            "products": [
+                "Wheat",
+                "Tractor Plough"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Bilal Hussain",
+            "email": "seller9@pakistan.com",
+            "phone": "+92-363-4494028",
+            "city": "Islamabad",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 9",
+            "verified": true,
+            "products": [
+                "Hybrid Maize Seeds",
+                "Wheat"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Ayesha Siddiqui",
+            "email": "seller10@pakistan.com",
+            "phone": "+92-359-8131445",
+            "city": "Multan",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 10",
+            "verified": true,
+            "products": [
+                "Hybrid Maize Seeds",
+                "Hybrid Maize Seeds"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Zain Ul Abidin",
+            "email": "seller11@pakistan.com",
+            "phone": "+92-395-8366666",
+            "city": "Lahore",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 11",
+            "verified": false,
+            "products": [
+                "Drip Irrigation System",
+                "Tractor Plough"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Farhan Javed",
+            "email": "seller12@pakistan.com",
+            "phone": "+92-351-3226177",
+            "city": "Faisalabad",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 12",
+            "verified": true,
+            "products": [
+                "DAP Fertilizer",
+                "Wheat"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Iqra Noor",
+            "email": "seller13@pakistan.com",
+            "phone": "+92-337-2085024",
+            "city": "Islamabad",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 13",
+            "verified": true,
+            "products": [
+                "Drip Irrigation System",
+                "Hybrid Maize Seeds"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Muhammad Usman",
+            "email": "seller14@pakistan.com",
+            "phone": "+92-363-7992631",
+            "city": "Peshawar",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 14",
+            "verified": true,
+            "products": [
+                "DAP Fertilizer",
+                "Hybrid Maize Seeds"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Rabia Tariq",
+            "email": "seller15@pakistan.com",
+            "phone": "+92-318-8856339",
+            "city": "Peshawar",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 15",
+            "verified": false,
+            "products": [
+                "Confidor",
+                "Hybrid Maize Seeds"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 16,
+            "name": "Hassan Iqbal",
+            "email": "seller16@pakistan.com",
+            "phone": "+92-347-8457133",
+            "city": "Gujranwala",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 16",
+            "verified": false,
+            "products": [
+                "Hybrid Maize Seeds",
+                "Confidor"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 17,
+            "name": "Sohail Anwar",
+            "email": "seller17@pakistan.com",
+            "phone": "+92-374-8921418",
+            "city": "Lahore",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 17",
+            "verified": false,
+            "products": [
+                "DAP Fertilizer",
+                "Tractor Plough"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 18,
+            "name": "Maria Latif",
+            "email": "seller18@pakistan.com",
+            "phone": "+92-382-5211435",
+            "city": "Islamabad",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 18",
+            "verified": true,
+            "products": [
+                "Tractor Plough",
+                "Tractor Plough"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 19,
+            "name": "Junaid Akram",
+            "email": "seller19@pakistan.com",
+            "phone": "+92-338-3348763",
+            "city": "Rawalpindi",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 19",
+            "verified": false,
+            "products": [
+                "Confidor",
+                "Tractor Plough"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 20,
+            "name": "Nadia Aziz",
+            "email": "seller20@pakistan.com",
+            "phone": "+92-376-6442666",
+            "city": "Peshawar",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 20",
+            "verified": true,
+            "products": [
+                "Drip Irrigation System",
+                "Drip Irrigation System"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 21,
+            "name": "Umer Shah",
+            "email": "seller21@pakistan.com",
+            "phone": "+92-342-2896552",
+            "city": "Sialkot",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 21",
+            "verified": false,
+            "products": [
+                "Drip Irrigation System",
+                "Confidor"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 22,
+            "name": "Hina Aslam",
+            "email": "seller22@pakistan.com",
+            "phone": "+92-355-6720478",
+            "city": "Peshawar",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 22",
+            "verified": false,
+            "products": [
+                "Basmati Rice",
+                "Wheat"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 23,
+            "name": "Kamran Mehmood",
+            "email": "seller23@pakistan.com",
+            "phone": "+92-382-3107024",
+            "city": "Multan",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 23",
+            "verified": true,
+            "products": [
+                "Confidor",
+                "Hybrid Maize Seeds"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 24,
+            "name": "Tariq Bashir",
+            "email": "seller24@pakistan.com",
+            "phone": "+92-357-3647777",
+            "city": "Gujranwala",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 24",
+            "verified": true,
+            "products": [
+                "Confidor",
+                "Basmati Rice"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        },
+        {
+            "id": 25,
+            "name": "Lubna Zafar",
+            "email": "seller25@pakistan.com",
+            "phone": "+92-350-9267782",
+            "city": "Gujranwala",
+            "role": "seller",
+            "isSeller": true,
+            "isAdmin": false,
+            "store": "Store 25",
+            "verified": false,
+            "products": [
+                "Drip Irrigation System",
+                "DAP Fertilizer"
+            ],
+            "profile_picture": "https://example.com/images/seller_placeholder.jpg"
+        }
+    ],
+    "users": [
+        {
+            "id": 101,
+            "name": "Faisal Qureshi",
+            "email": "user101@pakistan.com",
+            "phone": "+92-368-2385562",
+            "city": "Lahore",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 102,
+            "name": "Saad Ahmad",
+            "email": "user102@pakistan.com",
+            "phone": "+92-389-4606664",
+            "city": "Karachi",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 103,
+            "name": "Mahira Khan",
+            "email": "user103@pakistan.com",
+            "phone": "+92-398-8993054",
+            "city": "Faisalabad",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 104,
+            "name": "Hamza Yousaf",
+            "email": "user104@pakistan.com",
+            "phone": "+92-398-1085234",
+            "city": "Lahore",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 105,
+            "name": "Sadia Arif",
+            "email": "user105@pakistan.com",
+            "phone": "+92-362-7728680",
+            "city": "Multan",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 106,
+            "name": "Noman Tariq",
+            "email": "user106@pakistan.com",
+            "phone": "+92-348-5948326",
+            "city": "Faisalabad",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 107,
+            "name": "Ayesha Javed",
+            "email": "user107@pakistan.com",
+            "phone": "+92-395-9768331",
+            "city": "Lahore",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 108,
+            "name": "Imran Butt",
+            "email": "user108@pakistan.com",
+            "phone": "+92-321-1575082",
+            "city": "Islamabad",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 109,
+            "name": "Saira Ali",
+            "email": "user109@pakistan.com",
+            "phone": "+92-334-6550501",
+            "city": "Faisalabad",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 110,
+            "name": "Zubair Malik",
+            "email": "user110@pakistan.com",
+            "phone": "+92-388-3750950",
+            "city": "Gujranwala",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 111,
+            "name": "Shahid Anwar",
+            "email": "user111@pakistan.com",
+            "phone": "+92-396-6341598",
+            "city": "Lahore",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 112,
+            "name": "Sobia Farooq",
+            "email": "user112@pakistan.com",
+            "phone": "+92-364-7970561",
+            "city": "Lahore",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 113,
+            "name": "Waqar Khan",
+            "email": "user113@pakistan.com",
+            "phone": "+92-350-3130905",
+            "city": "Gujranwala",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 114,
+            "name": "Adeel Shah",
+            "email": "user114@pakistan.com",
+            "phone": "+92-387-3138971",
+            "city": "Gujranwala",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 115,
+            "name": "Huma Qadir",
+            "email": "user115@pakistan.com",
+            "phone": "+92-375-5632658",
+            "city": "Gujranwala",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 116,
+            "name": "Javed Iqbal",
+            "email": "user116@pakistan.com",
+            "phone": "+92-311-4726963",
+            "city": "Quetta",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 117,
+            "name": "Rehan Aziz",
+            "email": "user117@pakistan.com",
+            "phone": "+92-364-1566867",
+            "city": "Lahore",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 118,
+            "name": "Aqsa Noreen",
+            "email": "user118@pakistan.com",
+            "phone": "+92-350-6090135",
+            "city": "Islamabad",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 119,
+            "name": "Shahnawaz Tariq",
+            "email": "user119@pakistan.com",
+            "phone": "+92-331-9559677",
+            "city": "Rawalpindi",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        },
+        {
+            "id": 120,
+            "name": "Mariam Asif",
+            "email": "user120@pakistan.com",
+            "phone": "+92-380-1160641",
+            "city": "Gujranwala",
+            "role": "user",
+            "isSeller": false,
+            "isAdmin": false,
+            "profile_picture": "https://example.com/images/user_placeholder.jpg"
+        }
+    ]
+}

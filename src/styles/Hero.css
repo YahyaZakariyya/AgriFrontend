@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400&family=Playfair+Display:ital@1&display=swap');
+
+
+/* Hero Section */
+.hero {
+    /* background-image: url('/banner1.png'); */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 1.5rem;
+    color: white;
+    position: relative;
+    overflow: hidden;
+    opacity: 0.9; /* Adjust opacity for better readability */
+  }
+  
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay */
+    z-index: 1;
+  }
+  
+  .content {
+    position: relative;
+    z-index: 2;
+    max-width: 1200px; /* Limit width on larger screens */
+    width: 100%;
+    padding: 1.5rem; /* Padding for smaller screens */
+  }
+  
+  /* Heading Style */
+  .heroTitle {
+    font-size: 2.5rem; /* Base size */
+    font-weight: 700;
+    letter-spacing: 0.1rem;
+    line-height: 1.2;
+    animation: fadeInUp 1s ease-in-out; /* Animation effect */
+    color: #fff; /* Text color */
+  }
+  
+  /* Subtitle Style */
+  .heroSubtitle {
+    font-size: 1.25rem; /* Base size */
+    margin-top: 1rem;
+    font-weight: 300;
+    line-height: 1.6;
+    animation: fadeInUp 1.5s ease-in-out;
+  }
+  
+  /* Button Styles */
+  .buttonContainer {
+    margin-top: 2rem; /* Space above buttons */
+  }
+  
+  .ctaButton {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    margin: 0 0.5rem; /* Space between buttons */
+    font-size: 1rem; /* Base size for mobile */
+    border-radius: 9999px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s; /* Added box-shadow transition */
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.3); /* Shadow for better visibility */
+  }
+  
+  /* Explore More Button */
+  /* Explore More Button */
+  .exploreButton {
+    color: white; /* Text color */
+    background: linear-gradient(90deg, #4caf50, #006400); /* Gradient background for "Explore More" */
+    transition: background 0.3s, transform 0.3s, box-shadow 0.3s; /* Smooth transition */
+  }
+  
+  .exploreButton:hover {
+    background: linear-gradient(90deg, #5cb85c, #004d00); /* Darker gradient on hover */
+    transform: scale(1.05); /* Zoom effect */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Shadow on hover */
+  }
+  
+  /* Learn More Button */
+  .learnButton {
+    background-color: transparent; /* No fill color */
+    border: 1px solid white; /* White border */
+    color: white; /* White text */
+    transition: background 0.3s, color 0.3s, transform 0.3s; /* Smooth transition */
+  }
+  
+  .learnButton:hover {
+    background: linear-gradient(90deg, #5cb85c, #004d00); /* Darker gradient on hover */
+    transform: scale(1.05); /* Zoom effect */
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Shadow on hover */
+    border: 0px; /* Remove border on hover */
+  }
+  
+  /* Secondary Call-to-Action */
+  .secondaryCta {
+    margin-top: 1rem;
+    font-size: 1rem;
+    color: #e0e0e0; /* Lighter shade for less emphasis */
+  }
+  
+  /* Media Queries */
+  @media (max-width: 768px) {
+    .heroTitle {
+        font-size: 2rem; /* Smaller for mobile */
+    }
+  
+    .heroSubtitle {
+        font-size: 1rem; /* Adjust subtitle for mobile */
+    }
+  
+    .ctaButton {
+        font-size: 0.9rem; /* Smaller button text */
+        padding: 0.5rem 1rem; /* Reduce padding for mobile */
+    }
+  }
+  
+  /* Keyframes for Fade-in Animation */
+  @keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+  }
